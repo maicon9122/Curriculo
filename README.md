@@ -12,6 +12,12 @@ src="https://private-user-images.githubusercontent.com/178525126/358423298-cd52e
 <img src="https://camo.githubusercontent.com/8b6fad3702e5b2320c3e108de6badbc01a7bce2007ca241899fa93641763f4ac/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6272756e6f6675727461646f666f6e74616e61267468656d653d64726163756c612673686f775f69636f6e733d7472756526686964655f626f726465723d66616c7365266c61796f75743d636f6d70616374" width="400"  />
 
 
+# Sobre mim
+
+-👨‍🏫 Atualmente estou trabalhando como auxiliar administrativo..<br>
+-👓 Estou cursando programação web na instituição de ensino Senac.<br>
+-🌐 Objetivo é trabalhar na área de TI.<br>
+
 #SKILLS
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
