@@ -12,3 +12,14 @@ src="https://private-user-images.githubusercontent.com/178525126/358423298-cd52e
 ![github-readme-streak-stats herokuapp](https://github.com/user-attachments/assets/bfdf1a18-1925-4ea8-b09a-2f0ec2ab700d)
 
 ![github-readme-stats vercel](https://github.com/user-attachments/assets/30f50126-5ea8-4e34-8ace-469971020aeb)
+
+
+#Contato
+<div>
+  <a href="instagram.com/br.fontana" >
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:bruno@levelupsistemas.com.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
