@@ -16,10 +16,10 @@ src="https://private-user-images.githubusercontent.com/178525126/358423298-cd52e
 
 #Contato
 <div>
-  <a href="instagram.com/br.fontana" >
+  <a href="instagram.com/maicondutraa" >
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:bruno@levelupsistemas.com.br">
+  <a href="mailto:maicon9122@gmail.com.">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
