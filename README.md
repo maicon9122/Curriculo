@@ -15,8 +15,8 @@ src="https://private-user-images.githubusercontent.com/178525126/358423298-cd52e
 # Sobre mim
 
 -👨‍🏫 Atualmente estou trabalhando como auxiliar administrativo..<br>
--👓 Estou cursando programação web na instituição de ensino Senac.<br>
--🌐 Objetivo é trabalhar na área de TI.<br>
+-👨🏻‍💻 Estou cursando programação web na instituição de ensino Senac.<br>
+-💻 Objetivo é trabalhar na área de TI.<br>
 
 #SKILLS
 <div>
@@ -24,13 +24,6 @@ src="https://private-user-images.githubusercontent.com/178525126/358423298-cd52e
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
-
-
-![api](https://github.com/user-attachments/assets/68b8f940-15a1-4bda-ae36-78b0708f712d)
-
-![github-readme-streak-stats herokuapp](https://github.com/user-attachments/assets/bfdf1a18-1925-4ea8-b09a-2f0ec2ab700d)
-
-![github-readme-stats vercel](https://github.com/user-attachments/assets/30f50126-5ea8-4e34-8ace-469971020aeb)
 
 
 #Contato
